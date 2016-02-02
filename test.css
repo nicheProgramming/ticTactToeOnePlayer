@@ -1,0 +1,29 @@
+html {
+	background-color:orange;
+}
+.square {
+	background-color:white;
+	width:100px;
+	height:100px;
+	margin:10px;
+	float:left;
+}
+.pUsed {
+	background-color:white;
+	width:100px;
+	height:100px;
+	margin:10px;
+	float:left;
+}
+.cUsed {
+	background-color:white;
+	width:100px;
+	height:100px;
+	margin:10px;
+	float:left;
+}
+#board {
+	background-color:black;
+	width:360px;
+	height:360px;
+}
