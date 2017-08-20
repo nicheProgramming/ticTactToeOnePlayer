@@ -1,2 +1,2 @@
 # ticTactToeOneplayer
-A one player tic tac toe game. Randomize bot placement
+A single player tic tac toe game created as a programming class assignment. The bot randomly select a quare after your turn.
